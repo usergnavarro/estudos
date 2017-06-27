@@ -1,0 +1,45 @@
+body{
+    background-color:#F5F0DC;
+    font-family: Helvetica, Arial, sans-serif;
+    width: 940px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2{
+    background-color:#B3A742;
+    background:-webkit-linear-gradient(top,#9C8F67,#C7BE9B);
+    border-radius: 15px;
+    border:1px solid black;
+    padding:5px 5px 5px 5px;
+    color:#FFFFFF;
+}
+h1{
+    text-align: center;
+}
+nav{
+    float: left;
+    width: 200px;
+}
+#tb-nutrientes{
+    width: 40%;
+    margin-right: auto;
+    margin-left: auto;
+    border:1px solid black;
+}
+#topo{
+    text-align: center;
+}
+figure{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    width:450px;
+    text-align: center;
+    padding: 15px;
+    border: 1px solid black;
+    box-shadow: 5px 5px 3px rgba(0,0,0,0.7);
+}
+#conteudo{
+    float: right;
+    width: 740px;
+}
