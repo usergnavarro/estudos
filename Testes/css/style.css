@@ -1,0 +1,23 @@
+body{
+    font-size: 16px;
+    color:#696969;
+}
+.box{
+    width: 200px;
+    height:200px;
+    background-color:#fff;
+    text-align: center;
+    margin:auto;
+    margin-top: 200px;
+    border-radius: 50%;
+ }
+ .box:hover{
+    box-shadow: 0 0 0 99999px #90EE90;
+ }
+.box:nth-of-type(odd):hover{
+    transform: scale(1) rotate(5deg);
+}
+.mickey{
+    border-radius: 30%;
+    margin:auto;
+}
